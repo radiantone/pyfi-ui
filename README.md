@@ -1,6 +1,8 @@
-# pyfi-ui
+![flow1](./screens/pyfi.svg)
+
 NodeJS/Vue UI for PYFI
 
+![flow1](./screens/architecture.png)
 To run:
 
 $ python -m http.server 8000
