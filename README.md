@@ -14,6 +14,7 @@ Then point your browser to http://localhost:8000
 
 
 
+![flow2](./screens/pyfi7.png)
 ![flow2](./screens/pyfi2.png)
 ![flow3](./screens/pyfi3.png)
 ![flow4](./screens/pyfi4.png)
