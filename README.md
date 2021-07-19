@@ -10,7 +10,8 @@ Another key theme in PYFI will be the dynamic scripting of processors and full t
 
 Lastly (for now), PYFI UI is built using industry modern javascript frameworks on top of NodeJS. This allows the UI to be extended with any type of javascript/typescript or VueJS component from the vast Node/Javascript ecosystem - integrating well with widgets from other apps inside an enterprise.
 
-***Sponsoring***
+**Sponsoring**
+
 This project is very exciting and will raise the bar for dynamic, observable distributed data flow systems. The technology is already out there and matured but needs to be brought together as a whole. This project is seeking intrepid sponsors would want access to the unpacked, unminimized source code and direct influence over integrations and designs going forward. Please let me know if you want to join in this vision!
 
 ![flow1](./screens/pyfi1.png)
