@@ -8,7 +8,7 @@ The architecture for PYFI is illustrated below, but one of the key themes vs Apa
 
 Another key theme in PYFI will be the dynamic scripting of processors and full transparency of processor behaviors. Making this a runtime feature means you don't have to endure complex and lengthy modifications to low-level source code, builds and redeploys. In an enterprise, that cycle can be frought with hurdles and approvals that prevent needed changes from coming quickly - not to mention dependency and versioning issues. PYFI avoids all that by creating a highly observable compute platform that doesn't compromise on security or features.
 
-Lastly (for now), PYFI UI is built using industry modern javascript frameworks on top of NodeJS. This allows the UI to be extended with any type of javascript/typescript ro VueJS component from the vast Node/Javascript ecosystem - integrating well with widgets from other apps inside an enterprise.
+Lastly (for now), PYFI UI is built using industry modern javascript frameworks on top of NodeJS. This allows the UI to be extended with any type of javascript/typescript or VueJS component from the vast Node/Javascript ecosystem - integrating well with widgets from other apps inside an enterprise.
 
 ![flow1](./screens/pyfi1.png)
 ![flow1](./screens/architecture2.png)
