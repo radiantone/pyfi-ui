@@ -4,6 +4,8 @@ NodeJS/Vue UI for PYFI
 
 ![flow1](./screens/pyfi1.png)
 ![flow1](./screens/architecture2.png)
+![flow1](./screens/architecture3.png)
+
 To run:
 
 $ python -m http.server 8000
