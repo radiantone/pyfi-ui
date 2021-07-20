@@ -24,6 +24,7 @@ $ python -m http.server 8000
 
 Then point your browser to http://localhost:8000
 
+NOTE: If you are on a smaller screen computer (e.g. like a macbook or something) you might need to reduce the scaling of your browser from 100% to 90-80% for the UI to render correctly.
 
 
 ![flow2](./screens/pyfi7.png)
